@@ -10,6 +10,6 @@ Serás un especialista en la gestión y desarrollo de soluciones basadas en el u
 Además del dominio y conocimiento de TI, potenciarás en tu perfil actitudes, hábitos, valores y habilidades interpersonales, analíticas y de resolución de problemas, que las pondrás al servicio de las organizaciones y los negocios con el propósito de transformarlos en un recurso competitivo para el progreso y desarrollo de la sociedad.
 
 
-![C-3PO_droid](../../images/web-tecnologias-por-q-estudiar.png)
+![C-3PO_droid](_static/images/web-tecnologias-por-q-estudiar.png)
 
 Here is a [reference to the intro](intro.md). Here is a reference to [](section-label).

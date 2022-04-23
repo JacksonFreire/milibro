@@ -3,7 +3,7 @@
 Mi nombre es Jackson Freire y soy estudiante de la Universidad Tecnológica Particular de Loja (UTPL), estoy cursando el sexto semestres de la Carrera de Tecnologías de la Información en modalidad a distancia
 esto porque me permite cursar en esta prestigiosa universidad desde cualquier parte del país (Ecuador) y algunos países del mundo, este trabajo específicamente es para cumplir con la materia de plataformas web en la cual estamos aprendiendo a utilizar la librería JupyterBook para crear página web en modo simple e interactuar con diferentes plataformas y servicios como Linux, Git, Github, GitHub Pages entre otras.
 
-![C-3PO_droid](../../images/PerfilJackson.jpg)
+![C-3PO_droid](_static/images/PerfilJackson.jpg)
 
 ## ¿Porque tecnologías de la información? 
 Cada día la mayor parte de la población mundial utiliza dispositivos tecnológicos, incluso en las acciones más pequeñas y sencillas. 
